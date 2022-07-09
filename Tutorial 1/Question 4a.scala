@@ -1,4 +1,5 @@
-object Test {
+object MainObject {
+
   def takeHomeSalary(normalHours: Double, OTHours: Double): Double = {
 
     var salary: Double = 250 * normalHours + 85 * OTHours;
@@ -6,5 +7,6 @@ object Test {
 
   }
 
-  println(takeHomeSalary(50, 30));
+  println(takeHomeSalary(40, 30));
+
 }
