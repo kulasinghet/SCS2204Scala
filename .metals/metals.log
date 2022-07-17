@@ -4067,3 +4067,240 @@ def main(): Unit = {
 Jul 09, 2022 2:21:31 PM org.eclipse.lsp4j.jsonrpc.services.GenericEndpoint notify
 INFO: Unsupported notification method: $/setTrace
 2022.07.09 14:21:36 WARN  no build target for: I:\Coding\University Projects\SCS 2204 Scala\Tutorial2\src\main\scala\Question3.scala
+2022.07.09 14:23:45 INFO  shutting down Metals
+2022.07.14 22:03:30 INFO  tracing is disabled for protocol LSP, to enable tracing of incoming and outgoing JSON messages create an empty file at i:\Coding\University Projects\SCS 2204 Scala\.metals\lsp.trace.json or C:\Users\thevi\AppData\Local\scalameta\metals\cache\lsp.trace.json
+2022.07.14 22:03:33 INFO  logging to file I:\Coding\University Projects\SCS 2204 Scala\.metals\metals.log
+2022.07.14 22:03:33 INFO  Started: Metals version 0.11.7 in workspace 'I:\Coding\University Projects\SCS 2204 Scala' for client Visual Studio Code 1.69.1.
+2022.07.14 22:03:37 INFO  time: initialize in 3.59s
+2022.07.14 22:03:38 WARN  Flyway upgrade recommended: H2 2.1.214 is newer than this version of Flyway and support has not been tested. The latest supported version of H2 is 2.1.210.
+2022.07.14 22:03:38 WARN  Build server is not auto-connectable.
+2022.07.14 22:03:38 WARN  no build tool detected in workspace 'I:\Coding\University Projects\SCS 2204 Scala'. The most common cause for this problem is that the editor was opened in the wrong working directory, for example if you use sbt then the workspace directory should contain build.sbt. 
+2022.07.14 22:03:42 WARN  no build target for: I:\Coding\University Projects\SCS 2204 Scala\Tutorial3\src\Main.scala
+Jul 14, 2022 10:03:44 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 1
+Jul 14, 2022 10:03:44 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 2
+Jul 14, 2022 10:03:44 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 3
+2022.07.14 22:03:58 INFO  no build target found for I:\Coding\University Projects\SCS 2204 Scala\Tutorial3\src\Main.scala. Using presentation compiler with project's scala-library version: 3.1.3
+Jul 14, 2022 10:04:01 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 4
+Jul 14, 2022 10:04:01 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 14
+Jul 14, 2022 10:04:01 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 16
+Jul 14, 2022 10:04:01 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 18
+Jul 14, 2022 10:04:01 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 20
+Jul 14, 2022 10:04:01 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 23
+Jul 14, 2022 10:04:02 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 29
+Jul 14, 2022 10:04:02 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 32
+Jul 14, 2022 10:04:02 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 35
+Jul 14, 2022 10:04:02 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 38
+Jul 14, 2022 10:04:02 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 41
+Jul 14, 2022 10:04:02 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 44
+Jul 14, 2022 10:04:02 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 47
+Jul 14, 2022 10:04:03 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 50
+Jul 14, 2022 10:04:03 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 56
+Jul 14, 2022 10:04:03 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 59
+Jul 14, 2022 10:04:03 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 66
+Jul 14, 2022 10:04:03 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 71
+2022.07.14 22:07:56 WARN  no build target for: I:\Coding\University Projects\SCS 2204 Scala\Tutorial3\src\Main.scala
+2022.07.14 22:08:06 WARN  no build target for: I:\Coding\University Projects\SCS 2204 Scala\Tutorial3\src\Main.scala
+2022.07.14 22:21:54 WARN  no build target for: I:\Coding\University Projects\SCS 2204 Scala\Tutorial3\src\Main.scala
+2022.07.14 22:22:09 WARN  no build target for: I:\Coding\University Projects\SCS 2204 Scala\Tutorial3\src\Main.scala
+2022.07.14 22:22:40 WARN  no build target for: I:\Coding\University Projects\SCS 2204 Scala\Tutorial3\src\Main.scala
+2022.07.14 22:23:01 WARN  no build target for: I:\Coding\University Projects\SCS 2204 Scala\Tutorial3\src\Main.scala
+2022.07.14 22:23:19 ERROR scalafmt: I:\Coding\University Projects\SCS 2204 Scala\Tutorial3\src\Main.scala:49: error: [dialect scala213] illegal start of simple expression
+  }
+  ^
+2022.07.14 22:23:19 WARN  no build target for: I:\Coding\University Projects\SCS 2204 Scala\Tutorial3\src\Main.scala
+2022.07.14 22:23:31 ERROR scalafmt: I:\Coding\University Projects\SCS 2204 Scala\Tutorial3\src\Main.scala:48: error: [dialect scala213] illegal start of simple expression
+    }
+    ^
+2022.07.14 22:23:31 WARN  no build target for: I:\Coding\University Projects\SCS 2204 Scala\Tutorial3\src\Main.scala
+2022.07.14 22:23:36 WARN  no build target for: I:\Coding\University Projects\SCS 2204 Scala\Tutorial3\src\Main.scala
+2022.07.14 22:24:19 WARN  no build target for: I:\Coding\University Projects\SCS 2204 Scala\Tutorial3\src\Main.scala
+2022.07.14 22:24:24 ERROR scalafmt: I:\Coding\University Projects\SCS 2204 Scala\Tutorial3\src\Main.scala:49: error: unclosed multi-line string literal
+      System.out.println(""")
+                         ^
+2022.07.14 22:24:25 WARN  no build target for: I:\Coding\University Projects\SCS 2204 Scala\Tutorial3\src\Main.scala
+2022.07.14 22:24:45 ERROR scalafmt: I:\Coding\University Projects\SCS 2204 Scala\Tutorial3\src\Main.scala:50: error: [dialect scala213] ; expected but . found
+    } System.out.println()
+            ^
+2022.07.14 22:24:46 WARN  no build target for: I:\Coding\University Projects\SCS 2204 Scala\Tutorial3\src\Main.scala
+2022.07.14 22:25:01 ERROR scalafmt: I:\Coding\University Projects\SCS 2204 Scala\Tutorial3\src\Main.scala:47: error: [dialect scala213] identifier expected but if found
+    if (a == 1) {
+    ^
+2022.07.14 22:25:01 WARN  no build target for: I:\Coding\University Projects\SCS 2204 Scala\Tutorial3\src\Main.scala
+2022.07.14 22:26:01 WARN  no build target for: I:\Coding\University Projects\SCS 2204 Scala\Tutorial3\src\Main.scala
+2022.07.14 22:26:22 WARN  no build target for: I:\Coding\University Projects\SCS 2204 Scala\Tutorial3\src\Main.scala
+2022.07.14 22:26:27 WARN  no build target for: I:\Coding\University Projects\SCS 2204 Scala\Tutorial3\src\Main.scala
+2022.07.14 22:26:39 WARN  no build target for: I:\Coding\University Projects\SCS 2204 Scala\Tutorial3\src\Main.scala
+2022.07.14 22:26:42 WARN  no build target for: I:\Coding\University Projects\SCS 2204 Scala\Tutorial3\src\Main.scala
+2022.07.14 22:27:19 WARN  no build target for: I:\Coding\University Projects\SCS 2204 Scala\Tutorial3\src\Main.scala
+Jul 14, 2022 10:27:35 PM org.eclipse.lsp4j.jsonrpc.services.GenericEndpoint notify
+INFO: Unsupported notification method: $/setTrace
+2022.07.14 22:27:49 INFO  time: code lens generation in 1.07s
+Jul 14, 2022 10:27:54 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 1403
+2022.07.14 22:28:04 WARN  no build target for: I:\Coding\University Projects\SCS 2204 Scala\Tutorial3\src\Main.scala
+2022.07.14 22:29:02 WARN  no build target for: I:\Coding\University Projects\SCS 2204 Scala\Tutorial3\src\Main.scala
+Jul 14, 2022 10:31:05 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 1502
+2022.07.14 22:31:28 WARN  no build target for: I:\Coding\University Projects\SCS 2204 Scala\Tutorial3\src\Main.scala
+2022.07.14 22:32:35 INFO  shutting down Metals
+2022.07.16 10:19:28 INFO  tracing is disabled for protocol LSP, to enable tracing of incoming and outgoing JSON messages create an empty file at i:\Coding\University Projects\SCS 2204 Scala\.metals\lsp.trace.json or C:\Users\thevi\AppData\Local\scalameta\metals\cache\lsp.trace.json
+2022.07.16 10:19:30 INFO  logging to file I:\Coding\University Projects\SCS 2204 Scala\.metals\metals.log
+2022.07.16 10:19:30 INFO  Started: Metals version 0.11.7 in workspace 'I:\Coding\University Projects\SCS 2204 Scala' for client Visual Studio Code 1.69.1.
+2022.07.16 10:19:32 INFO  time: initialize in 2.58s
+2022.07.16 10:19:32 WARN  Flyway upgrade recommended: H2 2.1.214 is newer than this version of Flyway and support has not been tested. The latest supported version of H2 is 2.1.210.
+2022.07.16 10:19:33 WARN  Build server is not auto-connectable.
+2022.07.16 10:19:33 WARN  no build tool detected in workspace 'I:\Coding\University Projects\SCS 2204 Scala'. The most common cause for this problem is that the editor was opened in the wrong working directory, for example if you use sbt then the workspace directory should contain build.sbt. 
+2022.07.16 10:19:35 WARN  no build target for: I:\Coding\University Projects\SCS 2204 Scala\Tutorial3\src\Main.scala
+2022.07.16 10:19:55 INFO  no build target found for I:\Coding\University Projects\SCS 2204 Scala\Tutorial3\src\Main.scala. Using presentation compiler with project's scala-library version: 3.1.3
+2022.07.16 10:19:59 INFO  time: code lens generation in 8.06s
+2022.07.16 10:19:59 INFO  time: code lens generation in 22s
+2022.07.16 10:19:59 INFO  time: code lens generation in 12s
+2022.07.16 14:50:14 WARN  no build target for: I:\Coding\University Projects\SCS 2204 Scala\Tutorial3\src\Main.scala
+2022.07.16 15:26:55 WARN  no build target for: I:\Coding\University Projects\SCS 2204 Scala\Tutorial3\src\Main.scala
+2022.07.16 15:27:32 WARN  no build target for: I:\Coding\University Projects\SCS 2204 Scala\Tutorial3\src\Main.scala
+2022.07.16 15:28:55 WARN  no build target for: I:\Coding\University Projects\SCS 2204 Scala\Tutorial3\src\Main.scala
+2022.07.16 15:31:03 INFO  time: code lens generation in 2.08s
+2022.07.16 15:31:06 WARN  no build target for: I:\Coding\University Projects\SCS 2204 Scala\Tutorial3\src\Main.scala
+2022.07.16 15:32:06 WARN  no build target for: I:\Coding\University Projects\SCS 2204 Scala\Tutorial3\src\Main.scala
+2022.07.16 16:10:37 WARN  no build target for: I:\Coding\University Projects\SCS 2204 Scala\Tutorial3\src\Main.scala
+2022.07.16 16:10:53 ERROR scalafmt: I:\Coding\University Projects\SCS 2204 Scala\Tutorial3\src\Main.scala:87: error: [dialect scala213] identifier expected but } found
+  }
+  ^
+2022.07.16 16:10:53 WARN  no build target for: I:\Coding\University Projects\SCS 2204 Scala\Tutorial3\src\Main.scala
+Jul 16, 2022 4:11:54 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 942
+2022.07.16 16:13:54 WARN  no build target for: I:\Coding\University Projects\SCS 2204 Scala\Tutorial3\src\Main.scala
+Jul 16, 2022 4:14:21 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 1355
+2022.07.16 16:14:31 ERROR scalafmt: I:\Coding\University Projects\SCS 2204 Scala\Tutorial3\src\Main.scala:100: error: [dialect scala213] illegal start of simple expression
+      if ()
+          ^
+2022.07.16 16:14:31 WARN  no build target for: I:\Coding\University Projects\SCS 2204 Scala\Tutorial3\src\Main.scala
+2022.07.16 16:14:45 WARN  no build target for: I:\Coding\University Projects\SCS 2204 Scala\Tutorial3\src\Main.scala
+2022.07.16 16:15:28 WARN  no build target for: I:\Coding\University Projects\SCS 2204 Scala\Tutorial3\src\Main.scala
+2022.07.16 16:15:34 WARN  no build target for: I:\Coding\University Projects\SCS 2204 Scala\Tutorial3\src\Main.scala
+2022.07.16 16:15:52 ERROR scalafmt: I:\Coding\University Projects\SCS 2204 Scala\Tutorial3\src\Main.scala:102: error: [dialect scala213] case expected but } found
+      }
+      ^
+2022.07.16 16:15:52 WARN  no build target for: I:\Coding\University Projects\SCS 2204 Scala\Tutorial3\src\Main.scala
+2022.07.16 16:15:55 ERROR scalafmt: I:\Coding\University Projects\SCS 2204 Scala\Tutorial3\src\Main.scala:102: error: [dialect scala213] illegal start of simple pattern
+      }
+      ^
+2022.07.16 16:15:55 WARN  no build target for: I:\Coding\University Projects\SCS 2204 Scala\Tutorial3\src\Main.scala
+2022.07.16 16:16:02 WARN  no build target for: I:\Coding\University Projects\SCS 2204 Scala\Tutorial3\src\Main.scala
+2022.07.16 16:16:12 WARN  no build target for: I:\Coding\University Projects\SCS 2204 Scala\Tutorial3\src\Main.scala
+2022.07.16 16:17:02 WARN  no build target for: I:\Coding\University Projects\SCS 2204 Scala\Tutorial3\src\Main.scala
+2022.07.16 16:17:14 WARN  no build target for: I:\Coding\University Projects\SCS 2204 Scala\Tutorial3\src\Main.scala
+Jul 16, 2022 4:17:36 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 1707
+2022.07.16 16:17:38 WARN  no build target for: I:\Coding\University Projects\SCS 2204 Scala\Tutorial3\src\Main.scala
+2022.07.16 16:18:13 WARN  no build target for: I:\Coding\University Projects\SCS 2204 Scala\Tutorial3\src\Main.scala
+2022.07.16 16:18:45 WARN  no build target for: I:\Coding\University Projects\SCS 2204 Scala\Tutorial3\src\Main.scala
+2022.07.16 16:19:04 WARN  no build target for: I:\Coding\University Projects\SCS 2204 Scala\Tutorial3\src\Main.scala
+2022.07.16 16:19:34 WARN  no build target for: I:\Coding\University Projects\SCS 2204 Scala\Tutorial3\src\Main.scala
+2022.07.16 16:20:23 WARN  no build target for: I:\Coding\University Projects\SCS 2204 Scala\Tutorial3\src\Main.scala
+2022.07.16 16:21:55 WARN  no build target for: I:\Coding\University Projects\SCS 2204 Scala\Tutorial3\src\Main.scala
+Exception in thread "pool-5-thread-1" java.lang.Error: java.lang.InterruptedException
+	at java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1155)
+	at java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:624)
+	at java.lang.Thread.run(Thread.java:748)
+Caused by: java.lang.InterruptedException
+	at scala.meta.internal.metals.FutureCancelToken.checkCanceled(FutureCancelToken.scala:29)
+	at scala.meta.internal.pc.CompilerAccess.onCompilerJobQueue$$anonfun$1(CompilerAccess.scala:196)
+	at scala.meta.internal.pc.CompilerJobQueue$Job.run(CompilerJobQueue.scala:152)
+	at java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1149)
+	... 2 more
+2022.07.16 16:22:54 WARN  no build target for: I:\Coding\University Projects\SCS 2204 Scala\Tutorial3\src\Main.scala
+2022.07.16 16:23:26 WARN  no build target for: I:\Coding\University Projects\SCS 2204 Scala\Tutorial3\src\Main.scala
+2022.07.16 16:24:12 WARN  no build target for: I:\Coding\University Projects\SCS 2204 Scala\Tutorial3\src\Main.scala
+2022.07.16 16:24:49 WARN  no build target for: I:\Coding\University Projects\SCS 2204 Scala\Tutorial3\src\Main.scala
+2022.07.16 16:25:22 WARN  no build target for: I:\Coding\University Projects\SCS 2204 Scala\Tutorial3\src\Main.scala
+2022.07.16 16:25:30 ERROR scalafmt: I:\Coding\University Projects\SCS 2204 Scala\Tutorial3\src\Main.scala:67: error: [dialect scala213] identifier expected but def found
+    def tempChange(): Double = {
+    ^
+2022.07.16 16:25:31 WARN  no build target for: I:\Coding\University Projects\SCS 2204 Scala\Tutorial3\src\Main.scala
+2022.07.16 16:25:48 ERROR scalafmt: I:\Coding\University Projects\SCS 2204 Scala\Tutorial3\src\Main.scala:67: error: [dialect scala213] identifier expected but def found
+    def tempChange(): Double = {
+    ^
+2022.07.16 16:25:48 WARN  no build target for: I:\Coding\University Projects\SCS 2204 Scala\Tutorial3\src\Main.scala
+2022.07.16 16:26:06 WARN  no build target for: I:\Coding\University Projects\SCS 2204 Scala\Tutorial3\src\Main.scala
+2022.07.16 16:31:48 WARN  no build target for: I:\Coding\University Projects\SCS 2204 Scala\Tutorial3\src\Main.scala
+2022.07.16 16:31:56 WARN  no build target for: I:\Coding\University Projects\SCS 2204 Scala\Tutorial3\src\Main.scala
+2022.07.16 16:32:15 WARN  no build target for: I:\Coding\University Projects\SCS 2204 Scala\Tutorial3\src\Main.scala
+2022.07.16 16:33:19 ERROR scalafmt: I:\Coding\University Projects\SCS 2204 Scala\Tutorial3\src\Main.scala:67: error: [dialect scala213] ( expected but } found
+    }
+    ^
+2022.07.16 16:33:19 WARN  no build target for: I:\Coding\University Projects\SCS 2204 Scala\Tutorial3\src\Main.scala
+2022.07.16 16:33:40 ERROR scalafmt: I:\Coding\University Projects\SCS 2204 Scala\Tutorial3\src\Main.scala:69: error: [dialect scala213] illegal start of simple expression
+    }
+    ^
+2022.07.16 16:33:40 WARN  no build target for: I:\Coding\University Projects\SCS 2204 Scala\Tutorial3\src\Main.scala
+2022.07.16 16:33:51 ERROR scalafmt: I:\Coding\University Projects\SCS 2204 Scala\Tutorial3\src\Main.scala:69: error: [dialect scala213] illegal start of simple expression
+    }
+    ^
+2022.07.16 16:33:51 WARN  no build target for: I:\Coding\University Projects\SCS 2204 Scala\Tutorial3\src\Main.scala
+2022.07.16 16:34:20 ERROR scalafmt: I:\Coding\University Projects\SCS 2204 Scala\Tutorial3\src\Main.scala:70: error: [dialect scala213] illegal start of simple expression
+      } else if ()
+                 ^
+2022.07.16 16:34:20 WARN  no build target for: I:\Coding\University Projects\SCS 2204 Scala\Tutorial3\src\Main.scala
+2022.07.16 16:34:27 ERROR scalafmt: I:\Coding\University Projects\SCS 2204 Scala\Tutorial3\src\Main.scala:71: error: [dialect scala213] illegal start of simple expression
+    }
+    ^
+2022.07.16 16:34:27 WARN  no build target for: I:\Coding\University Projects\SCS 2204 Scala\Tutorial3\src\Main.scala
+2022.07.16 16:34:48 WARN  no build target for: I:\Coding\University Projects\SCS 2204 Scala\Tutorial3\src\Main.scala
+2022.07.16 16:35:04 WARN  no build target for: I:\Coding\University Projects\SCS 2204 Scala\Tutorial3\src\Main.scala
+2022.07.16 16:35:40 WARN  no build target for: I:\Coding\University Projects\SCS 2204 Scala\Tutorial3\src\Main.scala
+2022.07.16 16:35:49 WARN  no build target for: I:\Coding\University Projects\SCS 2204 Scala\Tutorial3\src\Main.scala
+2022.07.16 16:35:53 WARN  no build target for: I:\Coding\University Projects\SCS 2204 Scala\Tutorial3\src\Main.scala
+2022.07.16 16:36:51 WARN  no build target for: I:\Coding\University Projects\SCS 2204 Scala\Tutorial3\src\Main.scala
+2022.07.16 16:37:18 WARN  no build target for: I:\Coding\University Projects\SCS 2204 Scala\Tutorial3\src\Main.scala
+2022.07.16 16:37:29 WARN  no build target for: I:\Coding\University Projects\SCS 2204 Scala\Tutorial3\src\Main.scala
+2022.07.16 16:38:32 WARN  no build target for: I:\Coding\University Projects\SCS 2204 Scala\Tutorial3\src\Main.scala
+2022.07.16 16:38:58 WARN  no build target for: I:\Coding\University Projects\SCS 2204 Scala\Tutorial3\src\Main.scala
+2022.07.16 16:40:38 WARN  no build target for: I:\Coding\University Projects\SCS 2204 Scala\Tutorial3\src\Main.scala
+Jul 16, 2022 4:41:05 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 3671
+2022.07.16 16:41:40 WARN  no build target for: I:\Coding\University Projects\SCS 2204 Scala\Tutorial3\src\Main.scala
+Jul 16, 2022 4:43:15 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 3849
+2022.07.16 16:44:14 WARN  no build target for: I:\Coding\University Projects\SCS 2204 Scala\Tutorial3\src\Main.scala
+2022.07.16 16:44:52 WARN  no build target for: I:\Coding\University Projects\SCS 2204 Scala\Tutorial3\src\Main.scala
+2022.07.16 16:47:01 WARN  no build target for: I:\Coding\University Projects\SCS 2204 Scala\Tutorial3\src\Main.scala
+2022.07.16 17:14:20 WARN  no build target for: I:\Coding\University Projects\SCS 2204 Scala\Tutorial3\src\Main.scala
+2022.07.16 17:14:21 INFO  shutting down Metals
+2022.07.16 19:34:11 INFO  tracing is disabled for protocol LSP, to enable tracing of incoming and outgoing JSON messages create an empty file at i:\Coding\University Projects\SCS 2204 Scala\.metals\lsp.trace.json or C:\Users\thevi\AppData\Local\scalameta\metals\cache\lsp.trace.json
+2022.07.16 19:34:15 INFO  logging to file I:\Coding\University Projects\SCS 2204 Scala\.metals\metals.log
+2022.07.16 19:34:15 INFO  Started: Metals version 0.11.7 in workspace 'I:\Coding\University Projects\SCS 2204 Scala' for client Visual Studio Code 1.69.1.
+2022.07.16 19:34:20 INFO  time: initialize in 4.41s
+2022.07.16 19:34:22 WARN  Flyway upgrade recommended: H2 2.1.214 is newer than this version of Flyway and support has not been tested. The latest supported version of H2 is 2.1.210.
+2022.07.16 19:34:22 WARN  Build server is not auto-connectable.
+2022.07.16 19:34:22 WARN  no build tool detected in workspace 'I:\Coding\University Projects\SCS 2204 Scala'. The most common cause for this problem is that the editor was opened in the wrong working directory, for example if you use sbt then the workspace directory should contain build.sbt. 
+2022.07.16 19:34:25 WARN  no build target for: I:\Coding\University Projects\SCS 2204 Scala\Tutorial3\src\Main.scala
+Jul 16, 2022 7:34:31 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 2
+2022.07.16 19:34:40 INFO  no build target found for I:\Coding\University Projects\SCS 2204 Scala\Tutorial3\src\Main.scala. Using presentation compiler with project's scala-library version: 3.1.3
+2022.07.16 19:34:50 INFO  time: code lens generation in 19s
+2022.07.16 19:44:25 WARN  no build target for: I:\Coding\University Projects\SCS 2204 Scala\Tutorial3\src\Main.scala
+2022.07.16 19:44:35 WARN  no build target for: I:\Coding\University Projects\SCS 2204 Scala\Tutorial3\src\Main.scala
+2022.07.16 19:44:56 INFO  shutting down Metals
