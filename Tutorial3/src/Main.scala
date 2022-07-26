@@ -204,7 +204,7 @@ object Main {
 //     calculator();
 
     // Question 1
-
+    println("Question 1");
     def areaPi(radius: Double): Double = {
       return 3.14 * radius * radius;
     }
@@ -212,6 +212,7 @@ object Main {
     println();
 
     // Question 2
+    println("Question 2");
     def tempToFara(temp: Double): Double = {
       return (temp * 1.8 + 32);
     }
@@ -219,6 +220,7 @@ object Main {
     println();
 
     // Question 3
+    println("Question 3");
     def volSphere(radius: Double): Double = {
       return (4.0 / 3.0) * 3.14 * radius * radius * radius;
     }
@@ -226,6 +228,7 @@ object Main {
     println();
 
     // Question 4
+    println("Question 4");
     def wholeSaleCost(price: Double, quantity: Int): Double = {
 
       var deliveryCost: Double = 0;
@@ -241,6 +244,7 @@ object Main {
     println();
 
     // Question 5
+    println("Question 5");
     def runTime(easy: Int, tempo: Int, easy1: Int): Int = {
       return easy * 8 + tempo * 7 + easy1 * 8;
     }
