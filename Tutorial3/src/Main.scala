@@ -204,22 +204,26 @@ object Main {
 //     calculator();
 
     // Question 1
+
     def areaPi(radius: Double): Double = {
       return 3.14 * radius * radius;
     }
     println("Area of circle with radius 5: " + areaPi(5));
+    println();
 
     // Question 2
     def tempToFara(temp: Double): Double = {
       return (temp * 1.8 + 32);
     }
     println("Fahrenheit: " + tempToFara(35));
+    println();
 
     // Question 3
     def volSphere(radius: Double): Double = {
       return (4.0 / 3.0) * 3.14 * radius * radius * radius;
     }
     println("Volume of sphere with radius 5: " + volSphere(5));
+    println();
 
     // Question 4
     def wholeSaleCost(price: Double, quantity: Int): Double = {
@@ -234,6 +238,7 @@ object Main {
       return totalCost;
     }
     println("Whole sale cost of 60 books: " + wholeSaleCost(24.95, 60));
+    println();
 
     // Question 5
     def runTime(easy: Int, tempo: Int, easy1: Int): Int = {
